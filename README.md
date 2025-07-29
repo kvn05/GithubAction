@@ -25,7 +25,7 @@ This project periodically fetches weather data for Berlin using the [Weatherstac
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/kvn05/GithubAction.git
    cd your-repo
    ```
 
