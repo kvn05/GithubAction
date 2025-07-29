@@ -1,1 +1,5 @@
 2025-07-29 14:33:36,425 - __main__ - INFO - Token value: Token not available!
+2025-07-29 17:54:20,537 - __main__ - ERROR - Weatherstack API key not found in environment variables!
+2025-07-29 17:54:20,537 - __main__ - ERROR - No API key available. Exiting script.
+2025-07-29 17:57:28,978 - __main__ - INFO - Starting weather data fetch from Weatherstack
+2025-07-29 17:57:30,528 - __main__ - INFO - Weather in Berlin: 20°C, Rain Shower
